@@ -1,0 +1,19 @@
+{
+  "name": "solid-my-demo-app2",
+  "version": "0.1.0",
+  "description": "Solid's tutorial my-demo-app2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/solid-my-demo-app2.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/solid-my-demo-app2/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/solid-my-demo-app2#readme"
+}
